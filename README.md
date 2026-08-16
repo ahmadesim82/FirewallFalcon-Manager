@@ -3,21 +3,21 @@
   <h1>🦅 FirewallFalcon Manager v4.0.0</h1>
   <p><b>The ultimate, lightning-fast, and beautiful terminal UI manager for VPN tunneling, protocol deployments, and advanced user administration on Linux servers.</b></p>
   
-  <a href="https://github.com/FirewallFalconsLabs/FirewallFalcon-Manager/releases">
-    <img src="https://img.shields.io/github/v/release/FirewallFalconsLabs/FirewallFalcon-Manager?style=flat-square&color=success" alt="Latest Release">
+  <a href="https://github.com/AhmadMohammad/FirewallFalcon-Manager/releases">
+    <img src="https://img.shields.io/github/v/release/FirewallFalconsLabs/AhmadMohammad-Manager?style=flat-square&color=success" alt="Latest Release">
   </a>
   <img src="https://img.shields.io/badge/platform-linux-lightgrey?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/bash-%3E%3D4.0-yellow?style=flat-square&logo=gnu-bash" alt="Bash">
-  <a href="https://t.me/firewallfalcons">
+  <a href="https://t.me/Global_Net_Channel">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram" alt="Telegram">
   </a>
 </div>
 
 ---
 
-## ✨ Why FirewallFalcon Manager?
+## ✨ Why AhmadMohammad Manager?
 
-FirewallFalcon Manager is built with an **obsessive focus on speed, fluidity, and aesthetics**. We took the traditional chunky script and refined it into a gorgeous, highly responsive, and relentlessly efficient terminal experience.
+AhmadMohammad Manager is built with an **obsessive focus on speed, fluidity, and aesthetics**. We took the traditional chunky script and refined it into a gorgeous, highly responsive, and relentlessly efficient terminal experience.
 
 Whether you're managing 5 users or 500, deploying complex protocols, or locking down your server traffic—you can do it all in seconds, with zero frustration.
 
@@ -25,11 +25,11 @@ Whether you're managing 5 users or 500, deploying complex protocols, or locking 
 
 ## 🚀 Installation
 
-It takes less than a minute to deploy the complete FirewallFalcon Manager on your fresh VPS. Choose the installation method that works best for you:
+It takes less than a minute to deploy the complete AhmadMohammad Manager on your fresh VPS. Choose the installation method that works best for you:
 
 ### Primary Method (Recommended)
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/FirewallFalconsLabs/FirewallFalcon-Manager/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AhmadMohammadLabs/AhmadMohammad-Manager/main/install.sh)
 ```
 
 *(Once installed, simply type `menu` in your terminal to launch the interface!)*
@@ -75,15 +75,15 @@ Easily spin up entire tunneling infrastructures onto your server without touchin
 
 ## 💬 Community & Support
 
-* **Telegram Channel:** [t.me/firewallfalcons](https://t.me/firewallfalcons) - Join for updates and support!
+* **Telegram Channel:** [https://t.me/Global_Net_Channel](https://t.me/Global_Net_Channel) - Join for updates and support!
 * **Donations:** If you find this project useful and want to support its development, you can contribute via:
-    * **PayPal:** [paypal.me/00xmahmoud](https://paypal.me/00xmahmoud)
-    * **Binance ID:** `885652061`
-    * **USDT (TRC20):** `TM2AfVAWQJiuriGC6KoTmsAJuUTTBd2f1R`
+    * **PayPal:** []()
+    * **Binance ID:** ``
+    * **USDT (TRC20):** ``
 
 ---
 
 <div align="center">
-  <b>Built by FirewallFalcons</b><br>
+  <b>Built by AhmadMohammad</b><br>
   <i>"Fast configuration, Secure tunneling, Beautiful interfaces."</i>
 </div>
